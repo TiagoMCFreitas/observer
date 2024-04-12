@@ -1,0 +1,12 @@
+com/observer/model/Observador.class
+com/observer/main/TelaCriptos$2.class
+com/observer/api/Criptos.class
+com/observer/model/Criptomoedas.class
+com/observer/model/Ethereum.class
+com/observer/model/CentralAnaliseCriptomoedas.class
+com/observer/model/Tether.class
+com/observer/main/TelaCriptos$1.class
+com/observer/api/Ticker.class
+com/observer/model/Subject.class
+com/observer/main/TelaCriptos.class
+com/observer/model/Bitcoin.class
